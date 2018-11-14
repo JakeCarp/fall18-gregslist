@@ -1,0 +1,28 @@
+.header-bg {
+  background-image: linear-gradient(to bottom, black, transparent);
+  height: 5vh;
+}
+footer {
+  background-image:linear-gradient(to top, black, transparent);
+  height: 5vh;
+}
+.card {
+  background-color: transparent;
+  font-family: 'Times New Roman', Times, serif;
+}
+form {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.auto-bg {
+  background-image: linear-gradient(to bottom, aqua, rgb(253, 87, 115));
+}
+.house-bg {
+  background-image: linear-gradient(to bottom, red, orange);
+}
+.job-bg {
+  background-image: linear-gradient(to bottom, rgb(187, 8, 187), yellow);
+}
+.categories {
+  justify-content: space-around;
+}
